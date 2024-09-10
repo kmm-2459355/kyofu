@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac1b15360528a9046a3fb3d026471700, type: 3}
+  m_Name: ExcelData
+  m_EditorClassIdentifier: 
+  Character:
+  - id: 0
+    HpMax: 100
+    HpMin: 0
+    DistanceX: 100
+    DistanceY: 100
+    JumpTime: 15
+  Obstacle:
+  - id: 0
+    damage: 0
+  - id: 0
+    damage: 0
+  - id: 0
+    damage: 0
